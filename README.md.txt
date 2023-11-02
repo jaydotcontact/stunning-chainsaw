@@ -7,4 +7,5 @@ I was 12. – Elon Musk
 
 Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. – Dan Salomon
 
+If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe
 
