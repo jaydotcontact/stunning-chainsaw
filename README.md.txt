@@ -9,3 +9,4 @@ Sometimes it pays to stay in bed on Monday, rather than spending the rest of the
 
 If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe
 
+Programming is learned by writing programs. ― Brian Kernighan
